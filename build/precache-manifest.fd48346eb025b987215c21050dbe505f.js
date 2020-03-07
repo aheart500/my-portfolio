@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72b90d3a0046f1a6515dd43b41c19fc3",
+    "revision": "16ea577540dcff195c5d803155291b3b",
     "url": "/index.html"
   },
   {
-    "revision": "4acfa97eb71be858f2d5",
-    "url": "/static/css/main.06d7ced3.chunk.css"
+    "revision": "b2caf8e9d25821c1b856",
+    "url": "/static/css/main.329af91f.chunk.css"
   },
   {
     "revision": "33651bac0a9ce3a2b7e5",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.bd96a193.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4acfa97eb71be858f2d5",
-    "url": "/static/js/main.1358fde3.chunk.js"
+    "revision": "b2caf8e9d25821c1b856",
+    "url": "/static/js/main.1ff1a6ed.chunk.js"
   },
   {
     "revision": "fb308fca788221227435",
@@ -28,6 +28,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/back1.fae6b451.jpg"
   },
   {
+    "revision": "f9fc41708683303ef9831535bc9415ef",
+    "url": "/static/media/back2.f9fc4170.png"
+  },
+  {
+    "revision": "4fb26d2c8f309640b0879b1f0ecf8f49",
+    "url": "/static/media/back33.4fb26d2c.jpeg"
+  },
+  {
     "revision": "6c7c45506ceb7988eba181373002f3f9",
     "url": "/static/media/certi.6c7c4550.png"
   },
@@ -36,16 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/co.dbc40204.jpg"
   },
   {
+    "revision": "16f7022e98890626a1b37baff0a93503",
+    "url": "/static/media/db.16f7022e.png"
+  },
+  {
     "revision": "afd16fac1630e69127e405d0761ceb1f",
     "url": "/static/media/hotel-mo.afd16fac.png"
   },
   {
     "revision": "4fb63091e52240de9568c8de37c2168c",
     "url": "/static/media/hotel-scr.4fb63091.png"
-  },
-  {
-    "revision": "f7441b372c78efdbb4efbae09f97553d",
-    "url": "/static/media/img5.f7441b37.jpg"
   },
   {
     "revision": "d2e1d969c24dadc4deee3fe9815b535c",
