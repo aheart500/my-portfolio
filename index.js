@@ -82,6 +82,15 @@ app.patch("/api/admin/messages/:messageId", async (req, res) => {
     res.status(401);
   }
 });
+app.delete("/api/admin/messages/:messageId", async (req, res) => {
+  try {
+    await Message.findByIdAndDelete({ _id: req.params.messageId });
+    const newMessages = await Message.find({}).sort({ Date: -1 });
+    res.status(200).json(newMessages);
+  } catch (err) {
+    res.status(401);
+  }
+});
 
 app.post("/api/admin/", async (req, res) => {
   const { email, pass } = req.body;
