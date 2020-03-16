@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a2546a11-3c73-4f39-856a-df0ff6e8a4bb/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/NasserP",
+    "appService.deploySubpath": ""
+}
