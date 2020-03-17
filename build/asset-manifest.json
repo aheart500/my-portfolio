@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d1b17de.chunk.css",
-    "main.js": "/static/js/main.7f2e4946.chunk.js",
-    "main.js.map": "/static/js/main.7f2e4946.chunk.js.map",
+    "main.css": "/static/css/main.fb329ec9.chunk.css",
+    "main.js": "/static/js/main.69449e12.chunk.js",
+    "main.js.map": "/static/js/main.69449e12.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.94a9c014.js",
     "runtime-main.js.map": "/static/js/runtime-main.94a9c014.js.map",
-    "static/js/2.75fd7edb.chunk.js": "/static/js/2.75fd7edb.chunk.js",
-    "static/js/2.75fd7edb.chunk.js.map": "/static/js/2.75fd7edb.chunk.js.map",
+    "static/js/2.b8f3a2fe.chunk.js": "/static/js/2.b8f3a2fe.chunk.js",
+    "static/js/2.b8f3a2fe.chunk.js.map": "/static/js/2.b8f3a2fe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.94893e6e0c9e4f9a204fba6e6c6b1b99.js": "/precache-manifest.94893e6e0c9e4f9a204fba6e6c6b1b99.js",
+    "precache-manifest.94ff448f1e15f5873e5a6b261ac2a758.js": "/precache-manifest.94ff448f1e15f5873e5a6b261ac2a758.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4d1b17de.chunk.css.map": "/static/css/main.4d1b17de.chunk.css.map",
-    "static/js/2.75fd7edb.chunk.js.LICENSE.txt": "/static/js/2.75fd7edb.chunk.js.LICENSE.txt",
+    "static/css/main.fb329ec9.chunk.css.map": "/static/css/main.fb329ec9.chunk.css.map",
+    "static/js/2.b8f3a2fe.chunk.js.LICENSE.txt": "/static/js/2.b8f3a2fe.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/back33.4fb26d2c.jpeg",
     "static/media/cert2.png": "/static/media/cert2.7c98943a.png",
+    "static/media/cert3.png": "/static/media/cert3.6f2db328.png",
     "static/media/certi.png": "/static/media/certi.6c7c4550.png",
     "static/media/co.jpg": "/static/media/co.dbc40204.jpg",
     "static/media/db.png": "/static/media/db.16f7022e.png",
@@ -21,7 +22,7 @@
     "static/media/hotel-scr.png": "/static/media/hotel-scr.4fb63091.png",
     "static/media/landing-mo.png": "/static/media/landing-mo.d2e1d969.png",
     "static/media/landing-scr.png": "/static/media/landing-scr.754cfdf7.png",
-    "static/media/me.jpg": "/static/media/me.2ca7a946.jpg",
+    "static/media/newMe.jpg": "/static/media/newMe.4b6288f9.jpg",
     "static/media/pim-mo.png": "/static/media/pim-mo.f8431d10.png",
     "static/media/pim-scr.png": "/static/media/pim-scr.9cc7f858.png",
     "static/media/react1.png": "/static/media/react1.8c9bde5f.png",
@@ -30,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.94a9c014.js",
-    "static/js/2.75fd7edb.chunk.js",
-    "static/css/main.4d1b17de.chunk.css",
-    "static/js/main.7f2e4946.chunk.js"
+    "static/js/2.b8f3a2fe.chunk.js",
+    "static/css/main.fb329ec9.chunk.css",
+    "static/js/main.69449e12.chunk.js"
   ]
 }
